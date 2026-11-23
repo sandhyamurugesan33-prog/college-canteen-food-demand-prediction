@@ -1,0 +1,81 @@
+DayOfWeek,Weather,StudentCount,ExamDay,CampusEvent,FoodItem,PreviousWeekSales,DemandLevel
+Monday,Sunny,720,No,No,Idli,165,High
+Monday,Sunny,720,No,No,Samosa,140,Medium
+Monday,Sunny,720,No,No,Veg Puff,125,Medium
+Monday,Sunny,720,No,No,Lemon Rice,155,High
+Tuesday,Cloudy,680,No,No,Idli,153,Medium
+Tuesday,Cloudy,680,No,No,Samosa,128,Medium
+Tuesday,Cloudy,680,No,No,Veg Puff,113,Low
+Tuesday,Cloudy,680,No,No,Lemon Rice,143,Medium
+Wednesday,Rainy,810,No,Yes,Idli,178,High
+Wednesday,Rainy,810,No,Yes,Samosa,153,Medium
+Wednesday,Rainy,810,No,Yes,Veg Puff,138,Medium
+Wednesday,Rainy,810,No,Yes,Lemon Rice,168,High
+Thursday,Sunny,640,No,No,Idli,156,High
+Thursday,Sunny,640,No,No,Samosa,131,Medium
+Thursday,Sunny,640,No,No,Veg Puff,116,Medium
+Thursday,Sunny,640,No,No,Lemon Rice,146,Medium
+Friday,Cloudy,850,No,No,Idli,173,High
+Friday,Cloudy,850,No,No,Samosa,148,Medium
+Friday,Cloudy,850,No,No,Veg Puff,133,Medium
+Friday,Cloudy,850,No,No,Lemon Rice,163,High
+Monday,Cloudy,755,No,No,Idli,167,High
+Monday,Cloudy,755,No,No,Samosa,142,Medium
+Monday,Cloudy,755,No,No,Veg Puff,127,Medium
+Monday,Cloudy,755,No,No,Lemon Rice,157,High
+Tuesday,Rainy,715,No,No,Idli,150,Medium
+Tuesday,Rainy,715,No,No,Samosa,125,Medium
+Tuesday,Rainy,715,No,No,Veg Puff,110,Low
+Tuesday,Rainy,715,No,No,Lemon Rice,140,Medium
+Wednesday,Sunny,845,Yes,No,Idli,167,High
+Wednesday,Sunny,845,Yes,No,Samosa,142,Medium
+Wednesday,Sunny,845,Yes,No,Veg Puff,127,Medium
+Wednesday,Sunny,845,Yes,No,Lemon Rice,157,High
+Thursday,Cloudy,675,Yes,No,Idli,139,Medium
+Thursday,Cloudy,675,Yes,No,Samosa,114,Low
+Thursday,Cloudy,675,Yes,No,Veg Puff,99,Low
+Thursday,Cloudy,675,Yes,No,Lemon Rice,129,Medium
+Friday,Sunny,885,No,No,Idli,190,High
+Friday,Sunny,885,No,No,Samosa,165,High
+Friday,Sunny,885,No,No,Veg Puff,150,Medium
+Friday,Sunny,885,No,No,Lemon Rice,180,High
+Monday,Rainy,700,No,No,Idli,140,Medium
+Monday,Rainy,700,No,No,Samosa,115,Medium
+Monday,Rainy,700,No,No,Veg Puff,100,Low
+Monday,Rainy,700,No,No,Lemon Rice,130,Medium
+Tuesday,Sunny,660,No,No,Idli,155,High
+Tuesday,Sunny,660,No,No,Samosa,130,Medium
+Tuesday,Sunny,660,No,No,Veg Puff,115,Medium
+Tuesday,Sunny,660,No,No,Lemon Rice,145,Medium
+Wednesday,Cloudy,790,No,Yes,Idli,185,High
+Wednesday,Cloudy,790,No,Yes,Samosa,160,High
+Wednesday,Cloudy,790,No,Yes,Veg Puff,145,Medium
+Wednesday,Cloudy,790,No,Yes,Lemon Rice,175,High
+Thursday,Sunny,620,No,No,Idli,150,Medium
+Thursday,Sunny,620,No,No,Samosa,125,Medium
+Thursday,Sunny,620,No,No,Veg Puff,110,Low
+Thursday,Sunny,620,No,No,Lemon Rice,140,Medium
+Friday,Cloudy,830,No,No,Idli,168,High
+Friday,Cloudy,830,No,No,Samosa,143,Medium
+Friday,Cloudy,830,No,No,Veg Puff,128,Medium
+Friday,Cloudy,830,No,No,Lemon Rice,158,High
+Monday,Sunny,770,No,No,Idli,179,High
+Monday,Sunny,770,No,No,Samosa,154,Medium
+Monday,Sunny,770,No,No,Veg Puff,139,Medium
+Monday,Sunny,770,No,No,Lemon Rice,169,High
+Tuesday,Cloudy,730,No,No,Idli,167,High
+Tuesday,Cloudy,730,No,No,Samosa,142,Medium
+Tuesday,Cloudy,730,No,No,Veg Puff,127,Medium
+Tuesday,Cloudy,730,No,No,Lemon Rice,157,High
+Wednesday,Sunny,860,Yes,No,Idli,172,High
+Wednesday,Sunny,860,Yes,No,Samosa,147,Medium
+Wednesday,Sunny,860,Yes,No,Veg Puff,132,Medium
+Wednesday,Sunny,860,Yes,No,Lemon Rice,162,High
+Thursday,Cloudy,690,No,Yes,Idli,184,High
+Thursday,Cloudy,690,No,Yes,Samosa,159,High
+Thursday,Cloudy,690,No,Yes,Veg Puff,144,Medium
+Thursday,Cloudy,690,No,Yes,Lemon Rice,174,High
+Friday,Rainy,900,No,No,Idli,175,High
+Friday,Rainy,900,No,No,Samosa,150,Medium
+Friday,Rainy,900,No,No,Veg Puff,135,Medium
+Friday,Rainy,900,No,No,Lemon Rice,165,High
